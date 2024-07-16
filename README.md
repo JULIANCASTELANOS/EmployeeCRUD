@@ -9,3 +9,5 @@ Render the UI as HTML and CSS for wide browser support, including mobile browser
 Integrate with modern hosting platforms, such as Docker.
 Build hybrid desktop and mobile apps with .NET and Blazor.
 ## EmployeeCRUD Blazor 
+
+![image](https://github.com/user-attachments/assets/4a016b49-0aa7-4c1c-b59d-37cd8cc2b758)
